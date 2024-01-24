@@ -24,11 +24,16 @@ A simple web-based random password generator created using HTML, CSS, and JavaSc
 
 ## Usage
 
+- Clone the repo:
+```bash
+git clone https://github.com/anilrajrimal1/simple-password-generator.git
+```
+
 1. Open the `index.html` file in your preferred web browser.
-2. Customize the password settings (length, include uppercase letters, numbers, symbols).
+2. Customize the password settings (length, including uppercase letters, numbers, and symbols).
 3. Click the "Generate Password" button.
 4. Copy the generated password to use as needed.
 
 ## Demo
 
-[View Demo]()
+[View Demo](https://anilrajrimal1.github.io/simple-password-generator/)
